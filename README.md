@@ -1,4 +1,4 @@
 
 <a href="https://github.com/DiamondGotCat/design-assets/releases/">
-    <img width="1920" alt="Nercone Header Black v26" src="https://github.com/user-attachments/assets/088b661c-2a14-421a-8c7f-dec616d23a69" />
+    <img width="1920" alt="Nercone Artworks" src="https://github.com/user-attachments/assets/6b2a5525-0f40-40a4-8f0b-9612dc335638" />
 </a>
