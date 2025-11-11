@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 16px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #1a1a1a;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" width="1920" height="1080"/>
+  <g id="Zeta">
+    <g id="Symbol">
+      <polyline class="cls-1" points="644.43 498.65 725.51 498.65 641.45 579.73 725.51 579.73 725.51 498.65 806.59 498.65"/>
+      <line class="cls-1" x1="887.67" y1="539.19" x2="725.51" y2="539.19"/>
+      <polyline class="cls-1" points="725.51 579.73 806.59 579.73 887.67 498.65 887.67 579.73"/>
+      <line class="cls-1" x1="766.05" y1="559.46" x2="766.05" y2="539.19"/>
+    </g>
+    <g id="Text">
+      <path class="cls-2" d="M997.26,490v15.09l-47.17,67.05h47.17v17.85h-72.86v-15.09l46.59-67.05h-44.7v-17.85h70.97Z"/>
+      <path class="cls-2" d="M1036.3,572.15h43.83v17.85h-64.01v-100h62.7v17.85h-42.53v23.8h37.3v18.14h-37.3v22.35Z"/>
+      <path class="cls-2" d="M1165.47,490v17.85h-27.58v82.15h-20.17v-82.15h-27.58v-17.85h75.33Z"/>
+      <path class="cls-2" d="M1234.41,590l-8.13-23.95h-37.45l-7.98,23.95h-21.48l37.3-100h21.77l37.15,100h-21.19ZM1194.78,548.49h25.54l-12.77-37.88-12.77,37.88Z"/>
+    </g>
+  </g>
+</svg>
