@@ -1,4 +1,4 @@
 
 <a href="https://github.com/DiamondGotCat/design-assets/releases/">
-    <img width="1920" src="https://github.com/user-attachments/assets/dacc25e9-fe99-48f4-b7b4-d2cb8dc9783d" />
+    <img width="2048" src="https://github.com/user-attachments/assets/9ed603c1-2a29-45ed-b21b-8f60e301a7a4" />
 </a>
